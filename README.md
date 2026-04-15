@@ -1,5 +1,5 @@
 # Solución desafio de Scraping 
-Repositorio de mi solución al desafio de scraping a la web de propuesto por Magnar. 
+Repositorio de mi solución al desafio de scraping propuesto por Magnar. La web es la siguiente: 
 [Ir a la web](https://publico.oefa.gob.pe/repdig/consulta/consultaTfa.xhtml)
 
 ## Enfoque usado
