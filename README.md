@@ -1,6 +1,6 @@
 # Solución desafio de Scraping 
 Repositorio de mi solución al desafio de scraping propuesto por Magnar. La web es la siguiente: 
-[Ir a la web](https://publico.oefa.gob.pe/repdig/consulta/consultaTfa.xhtml)
+[ir a la web](https://publico.oefa.gob.pe/repdig/consulta/consultaTfa.xhtml)
 
 ## Enfoque usado
 * Hacemos pre web scraping, navegando e inspeccionando la web con el propósito de identificar la información a extraer (`interface Documento`)
