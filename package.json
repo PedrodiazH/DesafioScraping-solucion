@@ -6,7 +6,7 @@
   "scripts": {
     "start": "tsx scraper.ts"
   },
-  "keywords": ["scraping", "oefa", "typescript", "axios", "cheerio"],
+  "keywords": ["scraping", "nodejs", "typescript", "axios", "cheerio"],
   "author": "Pedro Díaz H.",
   "license": "ISC",
   "dependencies": {

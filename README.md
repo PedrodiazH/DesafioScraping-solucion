@@ -39,8 +39,8 @@ Se tomo como referencia adicional para buenas prácticas y recomendaciones, el s
 Para ejecutar correctamente el Scraper, son los siguientes pasos:
 ```
 npm install
-```
-Y luego
-```
 npm run start
 ```
+
+> [!NOTA]
+> El proyecto ha sido validado en entornos limpios para asegurar un flujo de ejecución totalmente reproducible y gestion de dependencias
