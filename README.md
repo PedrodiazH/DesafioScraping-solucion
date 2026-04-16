@@ -42,5 +42,5 @@ npm install
 npm run start
 ```
 
-> [!NOTA]
+> [!NOTE]
 > El proyecto ha sido validado en entornos limpios para asegurar un flujo de ejecución totalmente reproducible y gestion de dependencias
